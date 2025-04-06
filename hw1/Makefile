@@ -1,0 +1,1 @@
+setup: bash run.sh
